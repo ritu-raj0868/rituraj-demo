@@ -1,4 +1,4 @@
 # rituraj-demo
 this is my first git repository
 <br>
-Author - Ritu Raj
+Author - Ritu Raj(Mr. Raj)
